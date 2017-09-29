@@ -1,0 +1,28 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.meta",
+				"*.asset",
+				"*.unity",
+				"*.ttf",
+				"*.pdf",
+				"*.unitypackage",
+				"*.unity3d",
+				"*.manifest",
+				"*.mdb",
+				"*.prefab",
+				"*.ogg",
+				"*.controller",
+				"*.anim",
+				"*.jar",
+				"*.dll",
+				"*.zip"
+			],
+			"path": "./Assets"
+		}
+	],
+	"solution_file": "./MovePath.sln"
+}

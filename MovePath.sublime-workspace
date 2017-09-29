@@ -1,0 +1,535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vecto",
+				"Vector3\tVector3"
+			],
+			[
+				"Editorguil",
+				"EditorGUIUtility\tEditorGUIUtility"
+			],
+			[
+				"gui",
+				"EditorGUI\tEditorGUI"
+			],
+			[
+				"over",
+				"override\toverride"
+			],
+			[
+				"edit",
+				"Editor\tEditor"
+			],
+			[
+				"unity",
+				"UnityEditor\tUnityEditor"
+			],
+			[
+				"vec",
+				"Vector3()\tVector3()"
+			],
+			[
+				"Ver",
+				"Vector3\tVector3"
+			],
+			[
+				"file",
+				"TextField(string text, params GUILayoutOption[] options)\tstring"
+			],
+			[
+				"getkeyco",
+				"GetKey(KeyCode key)\tbool"
+			],
+			[
+				"custo",
+				"CustomEditor\tCustomEditor"
+			],
+			[
+				"editor",
+				"Editor\tEditor"
+			],
+			[
+				"debu",
+				"Debug\tDebug"
+			],
+			[
+				"mono",
+				"MonoBehaviour\tMonoBehaviour"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"game",
+				"GameObject\tGameObject"
+			],
+			[
+				"asset",
+				"AssetBundle"
+			],
+			[
+				"ve",
+				"Vector3"
+			],
+			[
+				"ass",
+				"AssetBundle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/CreatePath.cs",
+			"settings":
+			{
+				"buffer_size": 495,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+			"settings":
+			{
+				"buffer_size": 8625,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Editor/CreatePathEditor.cs",
+			"settings":
+			{
+				"buffer_size": 279,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "Package Control: re",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 271.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/LocalSVN/SVN/Git/Unity/MovePath/Assets",
+		"/E/LocalSVN/SVN/Git/Unity/MovePath/Assets/Editor"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/messages.json",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/Context.sublime-menu",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/messages/1.8.1.txt",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/messages/1.9.0-beta5.txt",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/messages/1.5.1.txt",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/messages/1.5.0.txt",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/E/LocalSVN/SVN/Git/Unity/MovePath/MovePath.sublime-project",
+		"/E/LocalSVN/SVN/Git/Unity/MovePath/Assets/Scripts/CreatePath.cs",
+		"/E/LocalSVN/SVN/Git/Unity/MovePath/Assets/Scripts/newclass.cs",
+		"/D/Document/Unity/LuaFramework_UGUI-master/LuaFramework_UGUI-master.sublime-project",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Examples/02_ScriptsFromFile/ScriptsFromFile.cs",
+		"/E/LocalSVN/SVN/Git/Unity/MovePath/Assets/Scripts/NewBehaviourScript.cs",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Examples/03_CallLuaFunction/CallLuaFunction.cs",
+		"/d/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Core/LuaState.cs",
+		"/D/Document/Unity/War3/Assets/Editor/NewEditModeTest.cs",
+		"/D/Program Files/TxGameAssistant/VDI/Setup/Config.ini",
+		"/D/Document/Unity/New Unity Project/Assets/Scripts/TestA.cs",
+		"/C/Users/Administrator/Desktop/ZZSIM/data.config",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Examples/Resources/Lua/TestLuaCoroutine.lua.bytes",
+		"/d/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Core/LuaFunction.cs",
+		"/d/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Core/LuaBaseRef.cs",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/Test.cs",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Examples/05_LuaCoroutine/TestCoroutine.cs",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Examples/04_AccessingLuaVariables/AccessingLuaVariables.cs",
+		"/d/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Source/Generate/DelegateFactory.cs",
+		"/d/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Misc/LuaResLoader.cs",
+		"/d/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Core/LuaFileUtils.cs",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Temp/Compiled-Standard.shader",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Temp/Compiled-Legacy Shaders-Transparent-Diffuse.shader",
+		"/E/软件/chrome下载/092616295727.txt",
+		"/d/Document/Unity/LuaFramework_UGUI-master/Assets/Editor/EditorTest.cs",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/Editor/EditorTest.cs",
+		"/C/Users/Administrator/Desktop/war3/数据.txt",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Examples/02_ScriptsFromFile/ScriptsFromFile.lua",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/LuaFramework/ToLua/Lua/tolua.lua",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-workspace",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/Default.sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/D/Document/Unity/LuaFramework_UGUI-master/Assets/link.xml",
+		"/D/Document/Unity/xLua-master/Assets/XLua/Examples/01_Helloworld/Helloworld.cs",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/commands/code_actions.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/commands/format_document.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/listeners/completion.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/listeners/overridelistener.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/listeners/syntax.py",
+		"/d/Document/Unity/xLua-master/Assets/XLua/Src/LuaEnv.cs",
+		"/D/Document/Unity/xLua-master/Assets/XLua/Examples/02_U3DScripting/LuaBehaviour.cs",
+		"/D/Document/Unity/xLua-master/xLua-master.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/D/Document/Unity/xLua-master/Assets/XLua/Examples/01_Helloworld/Helloworld.unity",
+		"/D/Document/Unity/xLua-master/Assets/XLua/Examples/ExampleGenConfig.cs",
+		"/C/Users/Administrator/Desktop/war3/破解.j",
+		"/C/Users/Administrator/Desktop/xLua-master/Test/UnitTest/StreamingAssets/csCallLua.lua",
+		"/C/Users/Administrator/Desktop/war3/wddddddar3map.j",
+		"/C/Users/Administrator/Desktop/war3/new 1.txt",
+		"/C/Users/Administrator/Desktop/war3/Class1.cs",
+		"/C/Users/Administrator/Desktop/war3/数据.vb",
+		"/C/Users/Administrator/Desktop/war3/new qq1.txt",
+		"/C/Users/Administrator/Desktop/war3/新建文本文档.txt",
+		"/C/Users/Administrator/Desktop/war3/awar3map.j",
+		"/C/Users/Administrator/Desktop/war3/war3map.j",
+		"/C/Users/Administrator/Desktop/t.py",
+		"/C/Users/Administrator/Desktop/war3/war3stringhash.c",
+		"/C/Users/Administrator/Desktop/ZZSIM/Test/Launch.config",
+		"/E/软件/说明.txt",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/E/LocalSVN/SVN/Git/UpdateSystem/UpdateSystem/Scripts/Utility.cs",
+		"/E/LocalSVN/SVN/Git/TestA/r.cs",
+		"/E/LocalSVN/SVN/Git/TestA/1.txt",
+		"/D/Document/Unity/War3/Assets/Scripts/DrawLine.cs",
+		"/C/Users/Administrator/Desktop/ZZSIM/Launch.config",
+		"/E/LocalSVN/SVN/Git/UpdateSystem/UpdateSystem/Scripts/Component/MinCloseBtn.cs",
+		"/C/Users/Administrator/AppData/Roaming/GitHub Desktop/window-state.json",
+		"/C/Users/Administrator/Desktop/【爱在哈佛】Love.Story.In.Harvard.EP01.DVDRip.X264.chs.ssa",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/7zE020119AF/【爱在哈佛】Love.Story.In.Harvard.EP01.DVDRip.X264.chs.ssa",
+		"/C/Users/Administrator/Desktop/T/t_Data/StreamingAssets/TestLuaFile/mLua_A.lua",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/Test/LuaFile/mLua_B.lua",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/LuaFramework/ToLua/Lua/system/list.lua",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/LuaFramework/ToLua/Lua/system/set.lua",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/LuaFramework/ToLua/Lua/tolua.lua",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/StreamingAssets/TestLuaFile/mLua_A.lua",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/Test/LuaFile/mLua_A.lua",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/LuaFramework/ToLua/Examples/Resources/Lua/TestLoader.lua.bytes",
+		"/D/Document/Unity/LuaTetrisDemo-master/Assets/Scripts/Common/LuaComponent.cs",
+		"/D/Document/Unity/LuaTetrisDemo-master/Assets/Scripts/Manager/Dto.cs",
+		"/D/Document/Unity/LuaTetrisDemo-master/Assets/Scripts/Manager/GameStart.cs",
+		"/D/Document/Unity/LuaTetrisDemo-master/Assets/Scripts/Utility/Util.cs",
+		"/D/Document/Unity/LuaTetrisDemo-master/Assets/Scripts/Common/LuaBehaviour.cs",
+		"/E/SVN/Assets/Scripts/Four_Sences/Change_Sence.cs",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/LuaFramework/ToLua/Lua/math/Mathf.lua",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/Test/LuaFile/mLua_B.lua.meta",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/Test/LuaFile/mLua_A.lua.meta",
+		"/D/Document/Unity/LuaFramework_UGUI-1.0.4.109/Assets/LuaFramework/ToLua/Examples/02_ScriptsFromFile/ScriptsFromFile.lua"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/CreatePath.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"oops":
+							{
+								"118,128": "'PathPoints' should start with a lower case letter. (Rule 'Fields')",
+								"148,149": "Empty argument list is redundant",
+								"187,192": "'T_int' should start with a lower case letter. (Rule 'Fields')",
+								"214,220": "'T_long' should start with a lower case letter. (Rule 'Fields')",
+								"241,248": "'T_float' should start with a lower case letter. (Rule 'Fields')",
+								"270,278": "'T_String' should start with a lower case letter. (Rule 'Fields')",
+								"307,318": "'T_Transform' should start with a lower case letter. (Rule 'Fields')",
+								"340,349": "'T_Vector3' should start with a lower case letter. (Rule 'Fields')",
+								"389,395": "'T_Enum' should start with a lower case letter. (Rule 'Fields')"
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2880.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/Editor/CreatePathEditor.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"oops":
+							{
+								"19,24": "Using directive is not used by code and can be removed safely."
+							},
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "MovePath.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovePath", "MovePath.csproj", "{776A965D-F606-324E-D019-9398B339A09C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovePath.Editor", "MovePath.Editor.csproj", "{9A9FE650-B3FE-A2D0-939E-77F25C579D29}"

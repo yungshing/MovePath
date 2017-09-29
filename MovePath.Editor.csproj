@@ -127,6 +127,8 @@
   <ItemGroup>
     <Compile Include="Assets\Editor\IconManager.cs" />
     <Compile Include="Assets\Editor\PathPointsEditor.cs" />
+    <Compile Include="Assets\Editor\PathEditorTools.cs" />
+    <Compile Include="Assets\Editor\PointItemEditor.cs" />
     <Compile Include="Assets\Editor\TestAEditor.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

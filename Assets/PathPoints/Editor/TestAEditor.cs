@@ -23,4 +23,12 @@ public class TestAEditor : Editor
         EditorGUILayout.PropertyField(mClass,new GUIContent("序列化类"),true);
         so.ApplyModifiedProperties();
     }
+
+    Vector3[] v3 = new Vector3[] { Vector3.zero,new Vector3(1,2,3), Vector3.one * 3 , Vector3.up };
+    private void OnSceneGUI()
+    {
+        Handles.DrawLines(v3);
+        Handles.color = Color.red;
+        Handles.CubeHandleCap(1,Vector3.zero,Quaternion.identity,1,EventType.Repaint);
+    }
 }
